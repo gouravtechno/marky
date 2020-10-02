@@ -45,10 +45,17 @@ Please not that binaries are not signed. If you need them to be signed you can e
 * Finder integration (OS X)
 
 ## Technologies used
-
+* [Redux](https://github.com/reactjs/redux/)
 * [electron](https://github.com/electron/electron)
 * [React](https://facebook.github.io/react/)
-* [Redux](https://github.com/reactjs/redux/)
+
+
+  // Electron is an open-source software framework developed and maintained by GitHub. 
+  
+ // React is an open-source, front end, JavaScript library for building user interfaces or UI components. 
+ 
+// Redux is an open-source JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. 
+
 
 ## Roadmap
 
